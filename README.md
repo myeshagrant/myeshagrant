@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myeshagrant
 - 👀 I’m interested in front end development 
-- 🌱 I’m currently learning web design 
+- 🌱 I’m currently a Software Engineer
 - 💞️ I’m looking to collaborate on development projects 
 - 📫 How to reach me myesha.grant96@gmail.com
 
